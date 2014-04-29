@@ -1,4 +1,4 @@
-reactor_2_0
+Reactor CMS
 ===========
 
-Reactor CMS - PHP version
+Новая версия CSM, в качестве основы - PHP. Требует включенного расширения PDO
